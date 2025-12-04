@@ -1,3 +1,3 @@
-[x] --- Day 1: Secret Entrance ---
+- [x] --- Day 1: Secret Entrance ---
 
-[] --- Day 2: Gift Shop ---
+- [] --- Day 2: Gift Shop ---
